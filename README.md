@@ -1,6 +1,5 @@
 # EV-Performance-Dashboard
 EV performance analytics dashboard built using Python and Streamlit
-# EV Performance Dashboard
 
 This project is an EV analytics dashboard built using Python and Streamlit.
 
